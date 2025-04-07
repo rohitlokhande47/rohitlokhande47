@@ -50,33 +50,39 @@ I'm an Android & Full-Stack Developer passionate about creating elegant solution
 </div>
 
 ## 🌱 Currently Learning
-
 <div align="center">
   <table>
     <tr>
+    <td align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="Kotlin Multiplatform Mobile" width="60" height="60" />
+  <br>
+  <b>Kotlin Multiplatform</b>
+  <br>
+  <small>Cross-platform development</small>
+</td>
       <td align="center">
-        <img src="/api/placeholder/90/90" alt="KMM" width="60" height="60" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Data Structures and Algorithms" width="60" height="60" />
         <br>
-        <b>Kotlin Multiplatform</b>
-        <br>
-        <small>Cross-platform development</small>
-      </td>
-      <td align="center">
-        <img src="" alt="DSA" width="60" height="60" />
-        <br>[Uploading 2944960.webp…]()
-
         <b>Advanced DSA</b>
         <br>
         <small>For technical interviews</small>
       </td>
-      <td align="center">
-        <img src="/api/placeholder/90/90" alt="System Design" width="60" height="60" />
-        <br>
-        <b>System Design</b>
-        <br>
-        <small>Building scalable apps</small>
-      </td>
-    </tr>
+ <td align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="System Design" width="60" height="60" />
+  <br>
+  <b>System Design</b>
+  <br>
+  <small>Building scalable apps</small>
+</td>
+
+  <td align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="Cloud Architecture" width="60" height="60" />
+  <br>
+  <b>Cloud Architecture</b>
+  <br>
+  <small>AWS & Azure solutions</small>
+</td>
+
   </table>
 </div>
 
@@ -106,7 +112,7 @@ I'm looking to contribute to:
 
 ## ⚡ Fun Fact
 
-When everyone else is sleeping, I'm at my most creative - transforming midnight inspiration into morning innovation! 🌙✨
+I don’t ask why users break the app, I just assume they all do 🤷‍♂️.
 
 <div align="center">
   <h3>💬 Let's Connect!</h3>
