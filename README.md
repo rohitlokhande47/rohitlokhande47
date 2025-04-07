@@ -1,21 +1,118 @@
-# 💫 About Me:
-🚀 I’m currently working on:<br>Echo – A modern social media app using Jetpack Compose & Firebase<br>ChatApp – A full-stack real-time chat application with Kotlin and Node.js<br>RailLearn – A learning app for railway professionals<br>NotesMaker – A cross-device note-taking app with real-time sync and offline support<br>🤝 I’m looking to collaborate on:<br>Android and full-stack applications that solve real-world problems<br>Projects that involve Firebase, Jetpack Compose, or clean architecture<br>🧠 I’m looking for help with:<br>Optimizing performance in large-scale Android apps<br>Structuring scalable Node.js backend systems<br>🌱 I’m currently learning:<br>Kotlin Multiplatform Mobile (KMM)<br>Advanced DSA for placements<br>System design basics<br>💬 Ask me about:<br>Jetpack Compose, Firebase integration, and clean MVVM architecture<br>Deploying backend with Node.js and MongoDB<br>⚡ Fun fact:<br>I’m a night owl developer who gets the best ideas when everyone else is asleep 🌙<br>
+# 👋 Hello, I'm Rohit Lokhande
 
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+  <br>
+  <p><i>Night owl developer who transforms caffeine into code ☕✨</i></p>
+</div>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/@me) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rohit-lokhande-314a61248/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@lokhanderohit2020) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/20389740/rohit-lokhande?tab=profile) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lokhanderohit2020@gmail.com) 
+<p align="center">
+  <a href="https://twitter.com/rohitlokhande47"><img src="https://img.shields.io/badge/Twitter-%40rohitlokhande47-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://linkedin.com/in/rohit-lokhande-314a61248/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:lokhanderohit2020@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://discord.gg/https://discord.com/channels/@me"><img src="https://img.shields.io/badge/Discord-Chat-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rohitlokhande47&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rohitlokhande47&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitlokhande47&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 💫 About Me
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rohitlokhande47&limit=5&theme=merko&combine_all_yearly_contributions=true)
+I'm an Android & Full-Stack Developer passionate about creating elegant solutions to real-world problems. When I'm not coding, you'll find me experimenting with new technologies or optimizing existing systems.
 
----
-[![](https://visitcount.itsvg.in/api?id=rohitlokhande47&icon=0&color=3)](https://visitcount.itsvg.in)
+## 💻 Tech Stack
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <h3>Languages</h3>
+  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+  <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity">
+  
+  <h3>Frontend & Mobile</h3>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+  
+  <h3>Backend & Database</h3>
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  
+  <h3>Cloud & DevOps</h3>
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase">
+  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
+  <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins">
+  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx">
+  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
+</div>
+
+## 🌱 Currently Learning
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="/api/placeholder/90/90" alt="KMM" width="60" height="60" />
+        <br>
+        <b>Kotlin Multiplatform</b>
+        <br>
+        <small>Cross-platform development</small>
+      </td>
+      <td align="center">
+        <img src="" alt="DSA" width="60" height="60" />
+        <br>[Uploading 2944960.webp…]()
+
+        <b>Advanced DSA</b>
+        <br>
+        <small>For technical interviews</small>
+      </td>
+      <td align="center">
+        <img src="/api/placeholder/90/90" alt="System Design" width="60" height="60" />
+        <br>
+        <b>System Design</b>
+        <br>
+        <small>Building scalable apps</small>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 🤝 Let's Collaborate!
+
+I'm looking to contribute to:
+- 📱 Android and full-stack projects that solve real problems
+- 🔥 Applications using Firebase, Jetpack Compose, or clean architecture
+- 🌍 Open source initiatives with positive social impact
+
+## 📫 Need Help With:
+
+- ⚡ Optimizing performance in large-scale Android applications
+- 🏗️ Structuring scalable Node.js backend systems
+- 🔄 Implementing effective CI/CD pipelines
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohitlokhande47&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=rohitlokhande47&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="48%" />
+  
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitlokhande47&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="49%" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=rohitlokhande47&limit=5&theme=merko&combine_all_yearly_contributions=true" alt="Top Contributed Repos" width="49%" />
+</div>
+
+## ⚡ Fun Fact
+
+When everyone else is sleeping, I'm at my most creative - transforming midnight inspiration into morning innovation! 🌙✨
+
+<div align="center">
+  <h3>💬 Let's Connect!</h3>
+  <p>💼 Open for freelance projects and collaborations</p>
+  <p>📧 <a href="mailto:lokhanderohit2020@gmail.com">lokhanderohit2020@gmail.com</a></p>
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=rohitlokhande47&icon=0&color=3" alt="Profile Visits" />
+  </a>
+</div>
